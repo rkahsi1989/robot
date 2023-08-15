@@ -13,7 +13,7 @@ The key's randomart image is:
 |       .*+=..    |
 +----[SHA256]-----+
 
-***token*** 
+***token***
 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
 -------------------------------------------------------------------------
 
